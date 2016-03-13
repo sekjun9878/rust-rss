@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Guid","RSS 2.0 Specification § `<guid>` sub-element of `<item>`"]]});
